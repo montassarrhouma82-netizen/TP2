@@ -13,13 +13,7 @@ function StudentCard(props) {
       <p>Email : {props.email}</p>
 
       <p>Téléphone : {props.telephone}</p>
-
-      <p>Tel : {props.tel}</p>
-
-      <p>Gender : {props.gender}</p>
-
-      <p>Adresse : {props.addresse}</p>
-
+      
       <p>Filière : {props.filiere}</p>
 
       <p>Année d'étude : {props.anneeEtude}</p>
